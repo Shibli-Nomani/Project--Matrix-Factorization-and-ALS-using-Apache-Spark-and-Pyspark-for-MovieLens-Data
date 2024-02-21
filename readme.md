@@ -3,7 +3,7 @@
 ### 🐍 Code
 - Github Link:https://github.com/Shibli-Nomani/Project--Matrix-Factorization-and-ALS-using-Apache-Spark-and-Pyspark-for-MovieLens-Data/blob/main/notebook/20M-movie-recommendation-matrixfactorization-pyspark.ipynb
 
-- Kaggle Link:https://www.kaggle.com/code/shiblinomani/recommender-system-using-movielens-20m-dataset
+- Kaggle Link:[https://www.kaggle.com/code/shiblinomani/recommender-system-using-movielens-20m-dataset](https://www.kaggle.com/code/shiblinomani/matrix-factorization-and-als-with-apache-spark?scriptVersionId=163756615)
 
 ### 😆 About Dataset
 📊 Context: The Original dataset encompasses user ratings and free-text tagging from MovieLens, a movie recommendation platform. It comprises 20,002,263 ratings and 465,564 tag applications across 27,278 movies.
@@ -183,8 +183,14 @@ https://github.com/Shibli-Nomani/MLOps-Project-AirTicketPricePrediction
 ```sh
 pyenv shell 3.10.8
 ```
+### Apache Spark 🔥: 
+Apache Spark is an open-source distributed computing system that provides an interface for programming entire clusters with implicit data parallelism and fault tolerance. It supports a wide range of applications, including batch processing, streaming analytics, machine learning, and graph processing.
+
 ### PySpark 🐍
 PySpark is the Python API for Apache Spark, a fast and general-purpose cluster computing system for Big Data processing. It provides a simple and consistent interface for distributed data processing using Python.
+
+### MLlib 🧠: 
+MLlib is Apache Spark's scalable machine learning library, offering a set of high-level APIs for scalable machine learning algorithms. It includes common learning algorithms and utilities, such as classification, regression, clustering, collaborative filtering, dimensionality reduction, and feature engineering, suitable for large-scale data processing tasks.
 
 ### RDD (Resilient Distributed Dataset) 🚀
 RDD is a core data structure in PySpark representing an immutable, distributed collection of objects. It enables parallel processing, fault tolerance, and high-level abstractions for distributed data processing.
