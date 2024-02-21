@@ -1,8 +1,9 @@
 # 📺 Matrix factorization with PySpark
 ![matrixfactorization](https://github.com/Shibli-Nomani/Project--Matrix-Factorization-and-ALS-using-Apache-Spark-and-Pyspark-for-MovieLens-Data/assets/101654553/85aab642-7f70-455a-a55f-0b9fc1487cb9)
 ### 🐍 Code
-Github Link:https://github.com/Shibli-Nomani/Project--Matrix-Factorization-and-ALS-using-Apache-Spark-and-Pyspark-for-MovieLens-Data/blob/main/notebook/20M-movie-recommendation-matrixfactorization-pyspark.ipynb
-Kaggle Link:https://www.kaggle.com/code/shiblinomani/recommender-system-using-movielens-20m-dataset
+- Github Link:https://github.com/Shibli-Nomani/Project--Matrix-Factorization-and-ALS-using-Apache-Spark-and-Pyspark-for-MovieLens-Data/blob/main/notebook/20M-movie-recommendation-matrixfactorization-pyspark.ipynb
+
+- Kaggle Link:https://www.kaggle.com/code/shiblinomani/recommender-system-using-movielens-20m-dataset
 
 ### 😆 About Dataset
 📊 Context: The Original dataset encompasses user ratings and free-text tagging from MovieLens, a movie recommendation platform. It comprises 20,002,263 ratings and 465,564 tag applications across 27,278 movies.
@@ -11,7 +12,7 @@ Kaggle Link:https://www.kaggle.com/code/shiblinomani/recommender-system-using-mo
 
 - ref code: https://www.kaggle.com/code/shiblinomani/recommender-system-using-movielens-20m-dataset
 - original dataset: https://www.kaggle.com/code/shiblinomani/recommender-system-using-movielens-20m-dataset/input
-- 
+  
 # Install Apache Spark, Dependent Tools and Environment Path on Windows (Local Machine)
 1. Add system variables for Java_Home, Spark, Hadoop
 2. Add system variables path for Spark, Hadoop
