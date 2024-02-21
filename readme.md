@@ -183,8 +183,14 @@ https://github.com/Shibli-Nomani/MLOps-Project-AirTicketPricePrediction
 ```sh
 pyenv shell 3.10.8
 ```
+### Apache Spark 🔥: 
+Apache Spark is an open-source distributed computing system that provides an interface for programming entire clusters with implicit data parallelism and fault tolerance. It supports a wide range of applications, including batch processing, streaming analytics, machine learning, and graph processing.
+
 ### PySpark 🐍
 PySpark is the Python API for Apache Spark, a fast and general-purpose cluster computing system for Big Data processing. It provides a simple and consistent interface for distributed data processing using Python.
+
+### MLlib 🧠: 
+MLlib is Apache Spark's scalable machine learning library, offering a set of high-level APIs for scalable machine learning algorithms. It includes common learning algorithms and utilities, such as classification, regression, clustering, collaborative filtering, dimensionality reduction, and feature engineering, suitable for large-scale data processing tasks.
 
 ### RDD (Resilient Distributed Dataset) 🚀
 RDD is a core data structure in PySpark representing an immutable, distributed collection of objects. It enables parallel processing, fault tolerance, and high-level abstractions for distributed data processing.
