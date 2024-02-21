@@ -1,4 +1,4 @@
-# Matrix factorization with PySpark
+# 📺 Matrix factorization with PySpark
 
 # Install Apache Spark, Dependent Tools and Environment Path on Windows (Local Machine)
 1. Add system variables for Java_Home, Spark, Hadoop
