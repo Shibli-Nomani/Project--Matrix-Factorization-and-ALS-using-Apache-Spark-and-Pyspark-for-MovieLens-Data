@@ -3,7 +3,7 @@
 ### 🐍 Code
 - Github Link:https://github.com/Shibli-Nomani/Project--Matrix-Factorization-and-ALS-using-Apache-Spark-and-Pyspark-for-MovieLens-Data/blob/main/notebook/20M-movie-recommendation-matrixfactorization-pyspark.ipynb
 
-- Kaggle Link:https://www.kaggle.com/code/shiblinomani/recommender-system-using-movielens-20m-dataset
+- Kaggle Link:[https://www.kaggle.com/code/shiblinomani/recommender-system-using-movielens-20m-dataset](https://www.kaggle.com/code/shiblinomani/matrix-factorization-and-als-with-apache-spark?scriptVersionId=163756615)
 
 ### 😆 About Dataset
 📊 Context: The Original dataset encompasses user ratings and free-text tagging from MovieLens, a movie recommendation platform. It comprises 20,002,263 ratings and 465,564 tag applications across 27,278 movies.
