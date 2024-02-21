@@ -1,0 +1,11 @@
+matplotlib
+matplotlib-inline
+numpy
+keras 
+tensorflow
+tensorflow-intel
+scikit-learn
+seaborn
+scipy
+pyspark==3.4.2
+
