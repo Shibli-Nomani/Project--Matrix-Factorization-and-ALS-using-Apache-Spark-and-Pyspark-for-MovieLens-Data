@@ -1,4 +1,4 @@
-# 📺 Matrix factorization with PySpark
+# 📺 Matrix Factorization with PySpark for Movie Recommender System
 ![matrixfactorization](https://github.com/Shibli-Nomani/Project--Matrix-Factorization-and-ALS-using-Apache-Spark-and-Pyspark-for-MovieLens-Data/assets/101654553/85aab642-7f70-455a-a55f-0b9fc1487cb9)
 ### 🐍 Code
 - Github Link:https://github.com/Shibli-Nomani/Project--Matrix-Factorization-and-ALS-using-Apache-Spark-and-Pyspark-for-MovieLens-Data/blob/main/notebook/20M-movie-recommendation-matrixfactorization-pyspark.ipynb
